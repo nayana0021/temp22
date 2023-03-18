@@ -2,3 +2,6 @@ git
 git diff
 hotfix branch
 hotfix branch -d
+토큰을 키체인에 저장해도 푸쉬할때 마다 복붙해줘야 하나요?
+부셔버릴까요?
+걍 좀 해주라
